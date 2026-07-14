@@ -28,11 +28,14 @@
 
 💻 Passionate about building secure, scalable and user-friendly applications.
 
-🚀 Interested in
+🚀 Working on
 
 - 🌐 Full Stack Development
 - 📱 Android Development
-- ☕ Java Backend Development
+- ☕ Optimizing the Process
+
+🚀 Interested in
+
 - ☁️ Cloud Computing
 - 🤖 Artificial Intelligence
 - 📊 Data Science
@@ -150,7 +153,7 @@ A web application developed for Maharashtra DSE admission aspirants. Students ca
 - 📍 Region-wise & Branch-wise Recommendations
 - 📱 Responsive User Interface
 
-**🛠️ Technologies:** `JavaScript` `HTML` `CSS` `Firebase` `SQL`
+**🛠️ Technologies:** `JavaScript` `HTML` `CSS` `CSV` `SQL`
 ---
 
 # 📈 GitHub Analytics
@@ -166,16 +169,6 @@ A web application developed for Maharashtra DSE admission aspirants. Students ca
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nilesh0108&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh0108&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
