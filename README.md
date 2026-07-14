@@ -174,20 +174,9 @@ A web application developed for Maharashtra DSE admission aspirants. Students ca
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nilesh0108&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
-
-</p>
-
----
-
-# 🌱 Currently Working On
+# 🌱 Currently Learning More About 
 
 - 🚀 Full Stack Applications
-- 📱 Android Projects
 - ☁️ Cloud Fundamentals
 - 🤖 AI & Machine Learning
 - 📖 Data Structures & Algorithms
