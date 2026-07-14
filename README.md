@@ -1,98 +1,104 @@
-# Hi, I'm Nilesh Pal 👋
+<div align="center">
 
-### Full Stack Web Developer | Android App Developer | Java Developer | Exploring AI/ML, Data Science, Cloud & System Design
+# Hi 👋 I'm Nilesh Pal
 
-Passionate Computer Engineering student from India focused on building scalable web and Android applications that solve real-world problems.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;Android+App+Developer;Java+Developer;Learning+AI%2FML+%7C+Cloud+%7C+System+Design;Always+Building+Something+Awesome+🚀" />
 
-I enjoy learning modern technologies and transforming ideas into practical software products. My interests include Full Stack Development, Android Development, Backend Engineering, Cloud Computing, Artificial Intelligence, Data Science, and System Design.
+<img src="https://komarev.com/ghpvc/?username=Nilesh0108&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
----
+<a href="https://github.com/Nilesh0108">
+<img src="https://img.shields.io/github/followers/Nilesh0108?style=for-the-badge&logo=github"/>
+</a>
 
-## 🌐 Connect with Me
-
-<p align="left">
 <a href="https://www.linkedin.com/in/nilesh-pal-6a26b6369">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:nileshpal2308@gmail.com">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
-
-📧 Email: **nileshpal2308@gmail.com**
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 👨🏻‍💻 About Me
 
 🎓 Diploma Computer Engineering Student
 
-💻 Interested in
+💻 Passionate about building secure, scalable and user-friendly applications.
 
-- Full Stack Web Development
-- Android App Development
-- Backend Development (Java)
-- Database Design
-- Cloud Computing
-- Artificial Intelligence
-- Data Science
-- System Design
+🚀 Interested in
 
-🚀 Currently Learning
+- 🌐 Full Stack Development
+- 📱 Android Development
+- ☕ Java Backend Development
+- ☁️ Cloud Computing
+- 🤖 Artificial Intelligence
+- 📊 Data Science
+- 🏗️ System Design
+
+🌱 Currently Learning
 
 - Spring Boot
 - React
-- Firebase
-- REST APIs
 - Next.js
 - Docker
-- AWS Fundamentals
+- REST APIs
+- Firebase
+- AWS
 
-🎯 Career Goal
+🎯 Goal
 
-To become a Software Engineer capable of designing scalable applications that positively impact millions of users.
+> Build impactful software that solves real-world problems.
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
-Java • JavaScript • HTML • CSS • SQL
+<p>
 
-### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=java,js,html,css,sql"/>
 
-React
-Next.js
-Tailwind CSS
+</p>
+
+### Frameworks & Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,firebase"/>
+
+</p>
 
 ### Android
 
-Android Studio
-XML
-Java
+<p>
 
-### Backend
+<img src="https://skillicons.dev/icons?i=androidstudio"/>
 
-Java
-REST API
-Firebase
+<img src="https://img.shields.io/badge/XML-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Java-Backend-red?style=for-the-badge"/>
+
+</p>
 
 ### Database
 
-MySQL
-Firebase Realtime Database
-Firestore
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase"/>
+
+</p>
 
 ### Tools
 
-Git
-GitHub
-VS Code
-Postman
-Figma
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+
+</p>
 
 ---
 
@@ -100,68 +106,81 @@ Figma
 
 ## 🛡 EduGuard
 
-Risk Mitigation Platform for Primary Schools.
+> AI-powered Primary School Safety Platform
 
-### Features
+✅ Student Monitoring
 
-- Student Monitoring
-- Safety Alerts
-- Risk Analysis
-- Parent Notifications
-- Teacher Dashboard
+✅ Risk Detection
 
-Technology
+✅ Parent Notification
 
-Java
-Android
-XML
-Firebase
+✅ Teacher Dashboard
+
+**Tech**
+
+`Java` `Android` `Firebase` `XML`
 
 ---
 
 ## 🌉 SevaSetu
 
-A platform connecting local service providers with customers.
+> Community Service Marketplace
 
-Features
+✅ Worker Registration
 
-- User Authentication
-- Service Booking
-- Worker Dashboard
-- Customer Dashboard
-- Clean UI
+✅ Customer Booking
 
-Technology
+✅ Authentication
 
-Java
-Android
-Firebase
+✅ Service Management
+
+**Tech**
+
+`Java` `Firebase` `Android`
 
 ---
 
 ## 🪙 CoinFlip App
 
-A lightweight Java application demonstrating random event simulation with a clean interface.
+Simple Java utility application demonstrating random probability simulation.
 
-Technology
-
-Java
+`Java`
 
 ---
 
-# 📈 GitHub Statistics
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nilesh0108&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nilesh0108&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh0108&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh0108&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nilesh0108&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nilesh0108&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh0108&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nilesh0108&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
 
 </p>
 
@@ -169,14 +188,33 @@ Java
 
 # 🌱 Currently Working On
 
-- Full Stack Web Applications
-- Android Applications
-- Backend APIs
-- Open Source Contributions
-- Learning AI & Machine Learning
+- 🚀 Full Stack Applications
+- 📱 Android Projects
+- ☁️ Cloud Fundamentals
+- 🤖 AI & Machine Learning
+- 📖 Data Structures & Algorithms
+- 💡 Open Source Contributions
 
 ---
 
-## 💡 Motto
+# 📫 Contact Me
 
-> "Build solutions that make technology useful for everyone."
+📧 **Email**
+
+**nileshpal2308@gmail.com**
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/nilesh-pal-6a26b6369
+
+---
+
+<div align="center">
+
+### 💡 Quote
+
+> *"Code with purpose. Learn continuously. Build solutions that matter."*
+
+⭐ If you like my projects, don't forget to star them!
+
+</div>
