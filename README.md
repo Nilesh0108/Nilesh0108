@@ -104,48 +104,53 @@
 
 # 🚀 Featured Projects
 
-## 🛡 EduGuard
+## 🏠 Apna Helper
+**Blue-Collar Service Marketplace**
 
-> AI-powered Primary School Safety Platform
+A comprehensive platform that connects customers with trusted local blue-collar professionals such as electricians, plumbers, carpenters, painters, and other skilled workers. The platform streamlines service discovery, booking, and communication, significantly reducing the time and effort required to find reliable local services.
 
-✅ Student Monitoring
+### ✨ Key Features
+- 👷 Worker & Customer Registration
+- 🔍 Smart Service Search & Filtering
+- 📍 Location-based Service Discovery
+- 📅 Service Booking & Scheduling
+- ⭐ Ratings & Reviews
+- 📊 Admin Dashboard & Analytics
 
-✅ Risk Detection
-
-✅ Parent Notification
-
-✅ Teacher Dashboard
-
-**Tech**
-
-`Java` `Android` `Firebase` `XML`
-
----
-
-## 🌉 SevaSetu
-
-> Community Service Marketplace
-
-✅ Worker Registration
-
-✅ Customer Booking
-
-✅ Authentication
-
-✅ Service Management
-
-**Tech**
-
-`Java` `Firebase` `Android`
+**🛠️ Technologies:** `Java` `Android` `Firebase` `HTML` `CSS` `JavaScript`
 
 ---
 
-## 🪙 CoinFlip App
+## 🥗 Calories Predictor
+**AI-Powered Calorie Prediction & Tracking System**
 
-Simple Java utility application demonstrating random probability simulation.
+An intelligent calorie tracking application that predicts calorie intake using a **Linear Regression Machine Learning model**. It enables users to monitor daily nutrition, estimate calorie consumption, and maintain healthier eating habits.
 
-`Java`
+### ✨ Key Features
+- 🤖 Linear Regression ML Model
+- 🍽️ Food Calorie Prediction
+- 📈 Daily Calorie Tracking
+- 🎯 Personalized Health Insights
+- 📊 Progress Monitoring Dashboard
 
+**🛠️ Technologies:** `Python` `Machine Learning` `Linear Regression` `HTML` `CSS` `JavaScript`
+
+---
+
+## 🎓 DSE College Predictor
+**Direct Second Year Engineering Admission Predictor**
+
+A web application developed for Maharashtra DSE admission aspirants. Students can enter their diploma percentage, category, branch, and region to receive personalized college predictions based on previous years' cutoff data, along with college rankings.
+
+### ✨ Key Features
+- 📊 Previous Year Cutoff Analysis
+- 🎯 College Prediction Based on User Inputs
+- 🏫 College Ranking System
+- 🔎 Search & Filter Colleges
+- 📍 Region-wise & Branch-wise Recommendations
+- 📱 Responsive User Interface
+
+**🛠️ Technologies:** `JavaScript` `HTML` `CSS` `Firebase` `SQL`
 ---
 
 # 📈 GitHub Analytics
